@@ -1,5 +1,3 @@
-# anglicism_detection
-
 # AngloFinder: Anglicism Detection in German Texts
 
 ## Overview
