@@ -60,8 +60,19 @@ The results indicated no significant differences in the distribution of anglicis
 
 ### Citation
 
-Here are the main citations for this project:
+If you use this repository or build on this work, please cite:
 
-Shaitarova, A., Göhring, A., & Volk, M. (2023). *Machine vs. Human: Exploring Syntax and Lexicon in German Translations, with a Spotlight on Anglicisms*. Proceedings of the 24th Nordic Conference on Computational Linguistics (NoDaLiDa), 215–227. [Link to paper](https://aclanthology.org/2023.nodalida-1.22)
+```
+@inproceedings{Shaitarova2023,
+  title={Machine vs. Human: Exploring Syntax and Lexicon in German Translations, with a Spotlight on Anglicisms},
+  author={Shaitarova, Anastassia and G{\"o}hring, Anne and Volk, Martin},
+  booktitle={Proceedings of the 24th Nordic Conference on Computational Linguistics (NoDaLiDa)},
+  pages={215--227},
+  year={2023},
+  address={T{\'o}rshavn, Faroe Islands},
+  publisher={University of Tartu Library}
+}
+```
+
 
 
